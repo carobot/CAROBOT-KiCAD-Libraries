@@ -1,0 +1,2 @@
+# CAROBOT KiCAD Symbol
+
