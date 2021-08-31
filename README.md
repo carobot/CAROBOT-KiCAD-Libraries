@@ -1,2 +1,2 @@
-# CAROBOT KiCAD Symbol
+# CAROBOT KiCAD Libraries
 
